@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UIDemo</string>
+
+<!--  main activity layout  -->
+    <string name="user_name">Rameel Hassan</string>
+    <string name="user_grade">grade</string>
+    <string name="user_school">school</string>
+    <string name="first_name">first name</string>
+    <string name="sec_name">sec name</string>
+    <string name="third_name">third name</string>
+    <string name="forth_name">forth name</string>
+
+
+
+<!--    navigation activity-->
+    <string name="announcmenet">announcmenet</string>
+    <string name="profile">profile</string>
+
+
+
+
+</resources>
